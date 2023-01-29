@@ -1,0 +1,109 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+#title{
+    background-image: url(../../images/R.png);
+    background-repeat: no-repeat;
+    background-size: 1500px 200px;
+    
+}
+
+.container-fluid{
+    padding: 3% 5%;
+}
+
+.logoname{
+    font-family: 'Ubuntu-italic', sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    color: black;
+}
+
+h1{ 
+    font-size: 2rem;
+    line-height: 1.5;
+    text-align: center;
+    padding: 3% 5%;
+}
+
+h3{
+    font-weight: bolder;
+    font-style: oblique;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+h4{
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.Logo{
+    height: 100px;
+}
+
+/* stories */
+
+#stories{
+    padding: 5% 15%;
+    text-align: center;
+}
+
+.akuko{
+    font-style: oblique;
+}
+
+/* Reviews */
+
+#reviews{
+    padding: 5% 15%;
+    text-align: center;
+}
+
+.review-images{
+    width: 10%;
+    border-radius: 80%;
+    margin: 20px;
+}
+
+/* sponsors */
+
+#sponsors{
+    background-image: url(../../images/R.png);
+    background-repeat: no-repeat;
+    background-size: 1500px 500px;
+    padding-top: 3%;
+}
+.sponsors-logo{
+    width: 25%;
+    margin: 20px 20px 50px;
+    text-align: center;
+    padding-left: 10%;
+}
+
+/* pricing */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.card{
+    color: #000;
+    font-weight: bolder;
+}
+
+/* footer */
+#footer{
+    background-image: url(../../images/R.png);
+    background-repeat: no-repeat;
+    background-size: 1500px 500px;
+    padding: 3.5% 15%;
+    text-align: center;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
